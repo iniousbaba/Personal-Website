@@ -1,0 +1,175 @@
+body{
+text-align: center;
+margin: 0;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+color: #40514E;
+
+
+}
+
+h1{
+color: #66BFBF;
+font-size: 4rem;
+margin: 50px auto 0 auto;
+font-family: 'Satisfy', cursive;
+
+}
+
+h2 {
+color: #66BFBF;
+font-family: 'Merriweather', serif;
+font-size: 1.8rem;
+
+}
+
+h3 {
+color: #11999E;
+font-family: 'Merriweather', serif;
+}
+
+a {
+color: #11999E;
+font-family: 'Merriweather', serif;
+text-decoration: none;
+padding: 10px;
+
+}
+a:hover{
+color: #EAF6F6;
+}
+
+hr {
+border-style: dotted none none none;
+border-color: #b9eded;
+border-width: 5px;
+width: 5%;
+}
+
+p {
+line-height: 2;
+}
+
+
+/**************************** CLASSES ******************************/
+
+.subtitle {
+font-weight: normal;
+
+}
+
+.top_container {
+background-color: #EAF6F6;
+position: relative;
+padding-top: 100px;
+
+
+}
+
+
+.profile {
+width: 50%;
+margin: 75px auto;
+}
+
+.pro {
+text-decoration: underline;
+
+}
+
+.top-cloud {
+position: absolute;
+right:18.75rem;
+top: 6.25rem;
+
+}
+
+.bottom-cloud {
+position: absolute;
+left: 18.75rem;
+bottom: 18.75rem;
+
+}
+
+.skill-row {
+margin: 75px auto;
+width: 50%;
+text-align: left;
+line-height: 2;
+
+}
+
+.skill-coding {
+width: 25%;
+float: left;
+margin-right: 30px;
+
+}
+
+.skill-running {
+width: 25%;
+float: right;
+margin-left: 30px;
+
+}
+
+.topic-headers {
+margin: 75px auto 30px auto;
+
+}
+
+.btn {
+  margin: 50px auto;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #66BFBF;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  transition-duration: 0.4s;
+}
+
+.btn:hover {
+    background-color: #4CAF50;
+    color: white;
+
+}
+
+.btm-cont {
+background-color: #66BFBF;
+padding: 50px;
+color: #EAF6F6;
+
+}
+
+.copywrite {
+font-size: 0.75rem;
+padding: 10px
+}
+
+
+/**** How to use flaot and "clear"
+.skill-running-desc {
+clear: right;
+}
+
+
+
+.mountain {
+
+width: 50%;
+
+}
+
+
+
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Satisfy', cursive;
+
+***/
+
